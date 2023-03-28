@@ -1,0 +1,24 @@
+Phone Number Location Tracker
+This is a Python program that prompts the user for their phone number and retrieves the country, carrier, and location information of the phone number using the phonenumbers package.
+
+Requirements
+Python 3.x
+phonenumbers package (can be installed via pip)
+
+Installation
+Clone this repository to your local machine.
+Install the phonenumbers package by running pip install phonenumbers in your terminal/command prompt.
+Run the main.py file to start the program.
+
+How to Use
+Launch the program by running the main.py file.
+Enter a valid phone number (including the country code) into the input field.
+Click on the "Get Location" button to retrieve the country, carrier, and location information of the phone number.
+The program will display the information on the GUI window as well as print it to the console.
+Close the GUI window to exit the program.
+
+Troubleshooting
+If you enter an invalid phone number, the program will display an error message indicating that the phone number is invalid.
+
+Credits
+This program was developed using the phonenumbers package, which is distributed under the Apache License, Version 2.0.
